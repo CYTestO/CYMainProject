@@ -1,0 +1,12 @@
+PODS:
+  - Atesto (0.1.0)
+
+DEPENDENCIES:
+  - Atesto (~> 0.1.0)
+
+SPEC CHECKSUMS:
+  Atesto: c2da4f9e66d7959cb28dfca9975bc7bd7568526b
+
+PODFILE CHECKSUM: 8376fa9aa8cb04f2d20b1dc8c9d3e19fe2730dba
+
+COCOAPODS: 1.2.1.beta.1
